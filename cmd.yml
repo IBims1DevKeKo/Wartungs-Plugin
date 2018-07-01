@@ -1,0 +1,9 @@
+# Das ist die cmd.yml
+# Hier sind alle Commands vom
+# Wartungs-Plugin!
+
+CMD-1: /wartung help
+CMD-2: /wartung an
+CMD-3: /wartung aus
+CMD-4: /wartung add <SpielerName>
+CMD-5: /wartung remove <SpielerName>
