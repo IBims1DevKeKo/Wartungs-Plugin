@@ -1,0 +1,18 @@
+# Wartungs-Plugin
+# Email: bannertv74@gmail.com
+# Für Hilfe einfach anschreiben!
+
+# Hier unten könnt ihr alles beliebig Einstellen!
+
+prefix: '&7[&bWartungs&7-&bPlugin&7] '
+Status: false
+MOTD:
+  Slots: 0
+  motd1: '&eDieser Server ist gerade in Wartung!'
+  motd2: '&c&l[!] &cWartung...'
+Nachrichten:
+  Kick1: '&cWartungsarbeiten.'
+  Kick2: ''
+  Kick3: '&eDer Server ist gerade in Wartungsarbeiten!'
+  Kick4: '&eWir bitten um ihr Verstaendnis.'
+
